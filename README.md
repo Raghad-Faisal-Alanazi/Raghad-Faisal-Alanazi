@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/banner-top.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/banner-top.jpg" width="100%"/>
 </div>
 
 <h1 align="center">MOMOKO here 🌙</h1>
@@ -7,7 +7,7 @@
 <h3 align="center">Namaste 🙏 I'm Momoko</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
 </div>
 
 ## 📖 About Me
@@ -24,16 +24,24 @@
 
 ### 🌸 Follow Me on:
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rghdfyslalnzy@gmail.com) [![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raghad-Faisal-Alanazi)
+[
+
+![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:rghdfyslalnzy@gmail.com) [
+
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Raghad-Faisal-Alanazi)
 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/frog-divider.jpg" width="60%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
 </div>
 
 ## 🛠️ Languages & Tools I Have Placed My Hands On
@@ -43,11 +51,11 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/frog-divider.jpg" width="60%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
 </div>
 
 ## ⚡ GitHub Stats
@@ -62,28 +70,65 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/frog-divider.jpg" width="60%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
 </div>
 
 ## 💻 Tech Stack
 
+
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/frog-divider.jpg" width="60%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
 </div>
 
 ### 💭 Random Dev Quote
@@ -93,5 +138,5 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/banner-footer.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/banner-footer.jpg" width="100%"/>
 </div>
