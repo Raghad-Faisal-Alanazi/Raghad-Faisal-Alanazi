@@ -111,12 +111,14 @@ Pandas · NumPy · Scikit-learn · Matplotlib
 ## ⚡ GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Raghad-Faisal-Alanazi&show_icons=true&theme=tokyonight&hide_border=true&title_color=b08cff&icon_color=b08cff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raghad-Faisal-Alanazi&show_icons=true&theme=tokyonight&hide_border=true&title_color=b08cff&icon_color=b08cff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Faisal-Alanazi&layout=compact&theme=tokyonight&hide_border=true&title_color=b08cff&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raghad-Faisal-Alanazi&layout=compact&theme=tokyonight&hide_border=true&title_color=b08cff&text_color=c9d1d9&bg_color=0d1117" width="45%"/>
 </p>
+
+
 
 ---
 
