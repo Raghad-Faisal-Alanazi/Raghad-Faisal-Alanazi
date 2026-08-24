@@ -6,10 +6,6 @@
 
 <h3 align="center">Namaste 🙏 I'm Momoko</h3>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
-</div>
-
 ## 📖 About Me
 
 - 🌸 Began the journey with Python & Data Analysis
@@ -37,11 +33,7 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
 </div>
 
 ## 🛠️ Languages & Tools I Have Placed My Hands On
@@ -51,11 +43,7 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
 </div>
 
 ## ⚡ GitHub Stats
@@ -70,11 +58,7 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/water-kirby.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
 </div>
 
 ## 💻 Tech Stack
@@ -118,6 +102,9 @@
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
@@ -128,7 +115,7 @@
 
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider.jpg" width="60%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
 </div>
 
 ### 💭 Random Dev Quote
@@ -138,5 +125,5 @@
 </p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/banner-footer.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/banner-footer-removebg-preview.png" width="100%"/>
 </div>
