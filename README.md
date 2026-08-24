@@ -2,19 +2,46 @@
 <img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/banner-top.jpg" width="100%"/>
 </div>
 
-<h1 align="center">MOMOKO here 🌙</h1>
+<div align="center">
 
-<h3 align="center">Namaste 🙏 I'm Momoko</h3>
+# 🜲 MOMOKO 🜲
 
-## 📖 About Me
+### ✦ AI & Data Science Student ✦
 
-- 🌸 Began the journey with Python & Data Analysis
-- 💻 I work on AI & Machine Learning when I'm free, focusing on Data Science
-- 🎓 I am currently pursuing a degree in Artificial Intelligence & Data Science
-- 🧠 I worked on predictive models and hands-on experience with real datasets
-- 💬 Ask me about Python, Machine Learning, Data Analysis, SQL
-- ⚡ Interest in Artificial Intelligence, Deep Learning, Data Science, Automation
-- ✨ I only like clean data
+*Learning to turn data into something magical.* 🌿✨
+
+AI · Data Science · Machine Learning · Web Development
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌙 𝑾𝒆𝒍𝒄𝒐𝒎𝒆, 𝒂𝒅𝒗𝒆𝒏𝒕𝒖𝒓𝒆𝒓...
+
+</div>
+
+> *Every idea begins as a little spark.*
+>
+> *I'm here to turn those sparks into projects.*
+
+---
+
+## 🧙‍♀️ About Me
+
+I'm MOMOKO, an Artificial Intelligence & Data Science student
+who enjoys learning by building.
+
+My interests live somewhere between **data, technology, creativity,
+and fantasy worlds**.
+
+- 🧠 Artificial Intelligence
+- 📊 Data Science & Analysis
+- 🤖 Machine Learning
+- 🗄️ SQL & Databases
+- 🌐 Web Development
+- 🎨 Creative Projects
 
 <div align="center">
 
@@ -32,15 +59,54 @@
 
 </div>
 
+---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
 </div>
 
-## 🛠️ Languages & Tools I Have Placed My Hands On
+## 🌿 Current Quests
+
+🔮 AI & Data Science  
+Exploring machine learning, data analysis, and predictive models.
+
+📊 Data  
+Learning how to clean, understand, visualize, and work with data.
+
+🌐 Web Development  
+Building my skills with HTML, CSS, JavaScript, and UI design.
+
+🗄️ Databases  
+Working with SQL, data validation, and database queries.
+
+✨ Personal Projects  
+Turning random ideas into things I can actually build.
+
+---
+
+## 🪄 My Spellbook
+
+### Languages & Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,git,github,vscode,jupyter,sklearn,figma,cs" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
 </p>
+
+### AI & Data
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Pandas · NumPy · Scikit-learn · Matplotlib
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+---
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
@@ -57,73 +123,48 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Faisal-Alanazi&layout=compact&theme=tokyonight&hide_border=true&title_color=b08cff&text_color=c9d1d9&bg_color=0d1117" width="40%"/>
 </p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
-</div>
-
-## 💻 Tech Stack
-
-
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-
-
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-
-
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
+---
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/frog-divider-removebg-preview.png" width="60%"/>
 </div>
 
-### 💭 Random Dev Quote
+## 🧪 Current Experiment
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight"/>
-</p>
+### 🩺 Diabetes Prediction & Hospital Cost Analysis
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Raghad-Faisal-Alanazi/Raghad-Faisal-Alanazi/main/assets/assets/banner-footer-removebg-preview.png" width="100%"/>
-</div>
+A machine learning research project focused on exploring
+healthcare data and building predictive models.
+
+Tools & Concepts:
+
+Python · Pandas · Scikit-learn · Random Forest
+
+Classification · Regression · Data Analysis
+
+> *Turning numbers into knowledge, one dataset at a time.* ✨
+
+---
+
+## 🏰 Web Development
+
+I'm exploring the world of web development and learning how
+to create beautiful and interactive experiences.
+
+`text
+HTML
+ │
+ └── Structure
+      │
+      ▼
+CSS
+ │
+ ├── Layout
+ ├── Box Model
+ ├── Responsive Design
+ └── Visual Design
+      │
+      ▼
+JavaScript
+ │
+ └── Interactivity
